@@ -1,1 +1,0 @@
-# locmin_c
